@@ -1,0 +1,23 @@
+{
+  "name": "detect-taskbars",
+  "version": "1.0.0",
+  "description": "Electron utility for finding the location and size of all taskbars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron",
+    "taskbar",
+    "tray",
+    "size",
+    "location",
+    "position"
+  ],
+  "author": "Aram Drevekenin <grimsniffer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.4.2",
+    "electron-renderer-value": "^1.1.0"
+  }
+}
